@@ -5,4 +5,4 @@
 - 📫 ivan.firestone@icloud.com
 
 #OpenSoftware
-- API-RD-UTILS: [https://ifirestone.github.io/api-rd-utils/]`https://ifirestone.github.io/api-rd-utils/`
+- API-RD-UTILS: [https://ifirestone.github.io/api-rd-utils/]
