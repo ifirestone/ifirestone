@@ -22,10 +22,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="fmt.com.do" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="fmt.com.do" width="28px" src="https://github.com/ifirestone/ifirestone/blob/d09cf2582aac548ac7db0fec45f0e3c1723c9eee/icons/global.png" />][website]
 [<img align="left" alt="ijfirestone | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ifirestone | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ifirestone | Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ifirestone | Instagram" width="28px" src="https://github.com/ifirestone/ifirestone/blob/d09cf2582aac548ac7db0fec45f0e3c1723c9eee/icons/instagram.png" />][instagram]
 
 <br />
 
