@@ -74,6 +74,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifirestone&layout=compact)](https://github.com/ifirestone/github-readme-stats)
 
+
+[![ifirestone's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ifirestone)](https://github.com/ifirestone/github-readme-stats)
+
 [website]: https://fmt.com.do
 [twitter]: https://twitter.com/ijfirestone
 [instagram]: https://instagram.com/ifirestone
