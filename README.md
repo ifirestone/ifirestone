@@ -51,7 +51,7 @@
 ---
 
 
-<details>
+<!-- <details> -->
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
@@ -62,16 +62,14 @@
 5. 💪 Opened PR [#31](https://github.com/opticrd/becas-portal-frontend/pull/31) in [opticrd/becas-portal-frontend](https://github.com/opticrd/becas-portal-frontend)
 <!--END_SECTION:activity-->
 
-</details>
+<!-- </details> -->
 
-<details>
+<!-- <details> -->
   <summary>:zap: GitHub Stats</summary>
 
   [![ifirestone's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifirestone&count_private=true&show_icons=true&theme=radical)](https://github.com/ifirestone/github-readme-stats)
 
-  <img align="left" alt="ifirestone's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
+<!-- </details> -->
 
 [website]: https://fmt.com.do
 [twitter]: https://twitter.com/ijfirestone
