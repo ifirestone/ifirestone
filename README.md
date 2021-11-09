@@ -64,7 +64,8 @@
 </details>
 
 <!-- <details> -->
-  <summary>:zap: GitHub Stats</summary>
+<!--  <summary>:zap: GitHub Stats</summary> -->
+:zap: GitHub Stats
 
   [![ifirestone's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifirestone&count_private=true&show_icons=true&theme=radical)](https://github.com/ifirestone/github-readme-stats)
 
