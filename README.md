@@ -83,9 +83,9 @@
 <details>
 <summary>:zap: Wakatime Stats</summary>
 
-</details>
-
 [![ifirestone's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ifirestone)](https://github.com/ifirestone/github-readme-stats)
+
+</details>
 
 [website]: https://fmt.com.do
 [twitter]: https://twitter.com/ijfirestone
