@@ -12,7 +12,7 @@
 #OpenSoftware
 - [API-RD-TERRITORIAL][territorial]
 - [JAVA-FAKER][faker]
-- [LARAVEL-LANGUAGES][languages]
+- [LARAVEL-LANGUAGES][language]
 
 ## I'm a Husband, Father, Developer!!
 
