@@ -63,19 +63,27 @@
 <!--END_SECTION:activity-->
 </details>
 
-<!-- <details> -->
-<!--  <summary>:zap: GitHub Stats</summary> -->
-:zap: GitHub Stats
+
+<details>
+ <summary>:zap: GitHub Stats</summary>
 
   [![ifirestone's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifirestone&count_private=true&show_icons=true&theme=radical)](https://github.com/ifirestone/github-readme-stats)
 
-<!-- </details> -->
-:zap: Language Stats
+</details>
+
+
+<details>
+ <summary>:zap: Language Stats</summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifirestone&layout=compact)](https://github.com/ifirestone/github-readme-stats)
 
+</details>
 
-:zap: Wakatime Stats
+
+<details>
+<summary>:zap: Wakatime Stats</summary>
+
+</details>
 
 [![ifirestone's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ifirestone)](https://github.com/ifirestone/github-readme-stats)
 
