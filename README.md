@@ -41,7 +41,7 @@
 <img align="left" alt="SQL" width="28px" src="https://github.com/ifirestone/ifirestone/blob/cafd721a12d3afe7eaa8f4b32d6029c31984f86b/icons/sql.png" />
 <img align="left" alt="MySQL" width="28px" src="https://github.com/ifirestone/ifirestone/blob/cafd721a12d3afe7eaa8f4b32d6029c31984f86b/icons/mysql.png" />
 <img align="left" alt="Git" width="28px" src="https://github.com/ifirestone/ifirestone/blob/cafd721a12d3afe7eaa8f4b32d6029c31984f86b/icons/git.png" />
-<img align="left" alt="GitHub" width="28px" src="https://github.com/ifirestone/ifirestone/blob/c95c2469d55e02002401438bc59078420a28ab26/icons/github.svg" />
+<img align="left" alt="GitHub" width="28px" src="https://github.com/ifirestone/ifirestone/blob/cafd721a12d3afe7eaa8f4b32d6029c31984f86b/icons/github.svg" />
 <img align="left" alt="Terminal" width="28px" src="https://github.com/ifirestone/ifirestone/blob/cafd721a12d3afe7eaa8f4b32d6029c31984f86b/icons/terminal.png" />
 
 
