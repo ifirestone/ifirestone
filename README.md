@@ -51,7 +51,7 @@
 ---
 
 
-<!-- <details> -->
+<details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
@@ -61,8 +61,7 @@
 4. 💪 Opened PR [#24](https://github.com/opticrd/becas-backoffice-frontend/pull/24) in [opticrd/becas-backoffice-frontend](https://github.com/opticrd/becas-backoffice-frontend)
 5. 💪 Opened PR [#31](https://github.com/opticrd/becas-portal-frontend/pull/31) in [opticrd/becas-portal-frontend](https://github.com/opticrd/becas-portal-frontend)
 <!--END_SECTION:activity-->
-
-<!-- </details> -->
+</details>
 
 <!-- <details> -->
   <summary>:zap: GitHub Stats</summary>
