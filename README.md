@@ -10,7 +10,7 @@
 - [![wakatime](https://wakatime.com/badge/user/7c82a842-ae69-49a2-9d33-87a9b5f7fcd8.svg)](https://wakatime.com/@7c82a842-ae69-49a2-9d33-87a9b5f7fcd8)
 
 #OpenSoftware
-- API-RD-UTILS: [https://github.com/ifirestone/api-territorial]
+- API-RD-TERRITORIAL: [https://github.com/ifirestone/api-territorial]
 - JAVA-FAKER: [https://github.com/ifirestone/java-faker]
 - LARAVEL-LANGUAGES: [https://github.com/ifirestone/laravel-languages]
 
