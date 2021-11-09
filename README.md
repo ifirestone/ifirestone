@@ -70,6 +70,8 @@
   [![ifirestone's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifirestone&count_private=true&show_icons=true&theme=radical)](https://github.com/ifirestone/github-readme-stats)
 
 <!-- </details> -->
+:zap: Language Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifirestone&layout=compact)](https://github.com/ifirestone/github-readme-stats)
 
 [website]: https://fmt.com.do
 [twitter]: https://twitter.com/ijfirestone
