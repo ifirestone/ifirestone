@@ -11,8 +11,8 @@
 
 #OpenSoftware
 - [API-RD-TERRITORIAL][territorial]
-- JAVA-FAKER [https://github.com/ifirestone/java-faker]
-- LARAVEL-LANGUAGES (https://github.com/ifirestone/laravel-languages)
+- [JAVA-FAKER][https://github.com/ifirestone/java-faker]
+- [LARAVEL-LANGUAGES][https://github.com/ifirestone/laravel-languages]
 
 ## I'm a Husband, Father, Developer!!
 
