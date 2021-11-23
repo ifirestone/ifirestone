@@ -55,11 +55,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/opticrd/becas-backoffice-frontend/pull/26) in [opticrd/becas-backoffice-frontend](https://github.com/opticrd/becas-backoffice-frontend)
-2. 🎉 Merged PR [#32](https://github.com/opticrd/becas-portal-frontend/pull/32) in [opticrd/becas-portal-frontend](https://github.com/opticrd/becas-portal-frontend)
-3. 💪 Opened PR [#32](https://github.com/opticrd/becas-portal-frontend/pull/32) in [opticrd/becas-portal-frontend](https://github.com/opticrd/becas-portal-frontend)
-4. 💪 Opened PR [#26](https://github.com/opticrd/becas-backoffice-frontend/pull/26) in [opticrd/becas-backoffice-frontend](https://github.com/opticrd/becas-backoffice-frontend)
-5. 🎉 Merged PR [#25](https://github.com/opticrd/becas-backoffice-frontend/pull/25) in [opticrd/becas-backoffice-frontend](https://github.com/opticrd/becas-backoffice-frontend)
+1. 🎉 Merged PR [#27](https://github.com/opticrd/becas-backoffice-frontend/pull/27) in [opticrd/becas-backoffice-frontend](https://github.com/opticrd/becas-backoffice-frontend)
+2. 💪 Opened PR [#27](https://github.com/opticrd/becas-backoffice-frontend/pull/27) in [opticrd/becas-backoffice-frontend](https://github.com/opticrd/becas-backoffice-frontend)
+3. 🎉 Merged PR [#26](https://github.com/opticrd/becas-backoffice-frontend/pull/26) in [opticrd/becas-backoffice-frontend](https://github.com/opticrd/becas-backoffice-frontend)
+4. 🎉 Merged PR [#32](https://github.com/opticrd/becas-portal-frontend/pull/32) in [opticrd/becas-portal-frontend](https://github.com/opticrd/becas-portal-frontend)
+5. 💪 Opened PR [#32](https://github.com/opticrd/becas-portal-frontend/pull/32) in [opticrd/becas-portal-frontend](https://github.com/opticrd/becas-portal-frontend)
 <!--END_SECTION:activity-->
   
 </details>
