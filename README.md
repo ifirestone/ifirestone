@@ -4,8 +4,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/ijfirestone?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fijfirestone&screen_name=ijfirestone)
 
 - 👀 I’m interested Laravel Development
-- 🌱 I’m currently learning JS, Python
-- 💞️ I’m looking to collaborate on OpenSource projects
+- 👾 I’m currently learning ReactJS, ReactNative, NodeJS
+- 🤖 I’m looking to collaborate on OpenSource projects
 - 📫 ivan.firestone@icloud.com
 - [![wakatime](https://wakatime.com/badge/user/7c82a842-ae69-49a2-9d33-87a9b5f7fcd8.svg)](https://wakatime.com/@7c82a842-ae69-49a2-9d33-87a9b5f7fcd8)
 
