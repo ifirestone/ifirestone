@@ -22,7 +22,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="fmt.com.do" width="28px" src="https://github.com/ifirestone/ifirestone/blob/d09cf2582aac548ac7db0fec45f0e3c1723c9eee/icons/global.png" />][website]
+[<img align="left" alt="madlab.com.do" width="28px" src="https://github.com/ifirestone/ifirestone/blob/d09cf2582aac548ac7db0fec45f0e3c1723c9eee/icons/global.png" />][website]
 [<img align="left" alt="ijfirestone | Twitter" width="28px" src="https://github.com/ifirestone/ifirestone/blob/01e0e874e27aab947c681d7a327925fae72c54f5/icons/twitter.png" />][twitter]
 [<img align="left" alt="ifirestone | LinkedIn" width="28px" src="https://github.com/ifirestone/ifirestone/blob/01e0e874e27aab947c681d7a327925fae72c54f5/icons/linkedin.png" />][linkedin]
 [<img align="left" alt="ifirestone | Instagram" width="28px" src="https://github.com/ifirestone/ifirestone/blob/d09cf2582aac548ac7db0fec45f0e3c1723c9eee/icons/instagram.png" />][instagram]
