@@ -7,6 +7,7 @@
 - 👾 I’m currently learning ReactJS, ReactNative, NodeJS
 - 🤖 I’m looking to collaborate on OpenSource projects
 - 📫 ivan.firestone@icloud.com
+- [Resume](https://rxresu.me/ivan.firestone/manager)
 - [![wakatime](https://wakatime.com/badge/user/7c82a842-ae69-49a2-9d33-87a9b5f7fcd8.svg)](https://wakatime.com/@7c82a842-ae69-49a2-9d33-87a9b5f7fcd8)
 
 #OpenSoftware
