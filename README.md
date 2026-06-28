@@ -10,14 +10,6 @@
 
 </div>
 
-
-### Connect with me:
-
-[<img align="left" alt="madlab.com.do" width="28px" src="https://github.com/ifirestone/ifirestone/blob/d09cf2582aac548ac7db0fec45f0e3c1723c9eee/icons/global.png" />][website]
-[<img align="left" alt="ijfirestone | Twitter" width="28px" src="https://github.com/ifirestone/ifirestone/blob/01e0e874e27aab947c681d7a327925fae72c54f5/icons/twitter.png" />][twitter]
-[<img align="left" alt="ifirestone | LinkedIn" width="28px" src="https://github.com/ifirestone/ifirestone/blob/01e0e874e27aab947c681d7a327925fae72c54f5/icons/linkedin.png" />][linkedin]
-[<img align="left" alt="ifirestone | Instagram" width="28px" src="https://github.com/ifirestone/ifirestone/blob/d09cf2582aac548ac7db0fec45f0e3c1723c9eee/icons/instagram.png" />][instagram]
-
 <br />
 
 ## 🛠️ Skills & Technologies
@@ -29,44 +21,6 @@
 <br />
 
 ---
-
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/opticrd/becas-portal-frontend/pull/33) in [opticrd/becas-portal-frontend](https://github.com/opticrd/becas-portal-frontend)
-2. 💪 Opened PR [#33](https://github.com/opticrd/becas-portal-frontend/pull/33) in [opticrd/becas-portal-frontend](https://github.com/opticrd/becas-portal-frontend)
-3. 🎉 Merged PR [#28](https://github.com/opticrd/becas-backoffice-frontend/pull/28) in [opticrd/becas-backoffice-frontend](https://github.com/opticrd/becas-backoffice-frontend)
-4. 💪 Opened PR [#28](https://github.com/opticrd/becas-backoffice-frontend/pull/28) in [opticrd/becas-backoffice-frontend](https://github.com/opticrd/becas-backoffice-frontend)
-5. 🎉 Merged PR [#1](https://github.com/ifirestone/expenses-demo/pull/1) in [ifirestone/expenses-demo](https://github.com/ifirestone/expenses-demo)
-<!--END_SECTION:activity-->
-  
-</details>
-
-
-<details>
- <summary>:zap: GitHub Stats</summary>
-
-  [![ifirestone's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifirestone&count_private=true&show_icons=true&theme=radical)](https://github.com/ifirestone/github-readme-stats)
-
-</details>
-
-
-<details>
- <summary>:zap: Language Stats</summary>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifirestone&layout=compact)](https://github.com/ifirestone/github-readme-stats)
-
-</details>
-
-
-<details>
-<summary>:zap: Wakatime Stats</summary>
-
-[![ifirestone's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ifirestone)](https://github.com/ifirestone/github-readme-stats)
-
-</details>
 
 [website]: https://madlab.com.do
 [twitter]: https://twitter.com/ijfirestone
