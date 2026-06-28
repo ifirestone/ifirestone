@@ -1,3 +1,32 @@
+<div align="center">
+
+# Hi, I'm Ivan Firestone 👋
+
+**Cloud Architect | Software Architect | Software Developer | Crafting Seamless End-to-End Software Solutions**
+
+[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40ifirestone-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/ifirestone) [![X Follow](https://www.shieldcn.dev/x/follow/ijfirestone.svg?variant=branded&size=sm)](https://x.com/ijfirestone) [![Website](https://www.shieldcn.dev/badge/Website-madlab.com.do-181717.svg?logo=ri%3ALuLink&variant=branded&size=sm)](https://madlab.com.do) [![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40ifirestone-0A66C2.svg?logo=linkedin&variant=branded&size=sm)](https://linkedin.com/in/ifirestone) [![Mastodon](https://www.shieldcn.dev/badge/Mastodon-Mastodon-6364FF.svg?logo=mastodon&variant=branded&size=sm)](https://wakatime.com/@7c82a842) [![Instagram](https://www.shieldcn.dev/badge/Instagram-Instagram-E4405F.svg?logo=instagram&variant=branded&size=sm)](https://instagram.com/ifirestone)
+
+[![GitHub Followers](https://www.shieldcn.dev/github/followers/ifirestone.svg?variant=secondary&size=sm)](https://github.com/ifirestone?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/ifirestone.svg?variant=secondary&size=sm)](https://github.com/ifirestone?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-20-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/ifirestone?tab=repositories) ![Location](https://www.shieldcn.dev/badge/Location-Dominican_Republic-6366f1.svg?logo=googlemaps&variant=ghost&size=sm) ![Company](https://www.shieldcn.dev/badge/Company-Oficina_Gubernamental_de_Tecnologias_de_la_Informacion_y_Comunicacion_%7C_MADLAB_CG-1f2937.svg?logo=building&variant=ghost&size=sm)
+
+</div>
+
+## 🛠️ Skills & Technologies
+
+![JavaScript](https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&variant=branded&size=sm) ![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&size=sm) ![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded&size=sm) ![PHP](https://www.shieldcn.dev/badge/-PHP-777BB4.svg?logo=php&variant=branded&size=sm) ![Java](https://www.shieldcn.dev/badge/-Java-ED8B00.svg?logo=openjdk&variant=branded&size=sm) ![React](https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&variant=branded&size=sm) ![ESLint](https://www.shieldcn.dev/badge/-ESLint-4B32C3.svg?logo=eslint&variant=branded&size=sm) ![Prettier](https://www.shieldcn.dev/badge/-Prettier-F7B93E.svg?logo=prettier&variant=branded&size=sm) ![Tailwind CSS](https://www.shieldcn.dev/badge/-Tailwind_CSS-06B6D4.svg?logo=tailwindcss&variant=branded&size=sm) ![Vite](https://www.shieldcn.dev/badge/-Vite-646CFF.svg?logo=vite&variant=branded&size=sm)
+
+## 📦 Top Repositories
+
+[![ifirestone ⭐ 2](https://www.shieldcn.dev/github/stars/ifirestone/ifirestone.svg?variant=secondary&size=sm)](https://github.com/ifirestone/ifirestone) [![mangakatana_cbz_builder ⭐ 1](https://www.shieldcn.dev/github/stars/ifirestone/mangakatana_cbz_builder.svg?variant=secondary&size=sm)](https://github.com/ifirestone/mangakatana_cbz_builder) [![ifirestone.github.io ⭐ 1](https://www.shieldcn.dev/github/stars/ifirestone/ifirestone.github.io.svg?variant=secondary&size=sm)](https://github.com/ifirestone/ifirestone.github.io) [![api-territorial ⭐ 1](https://www.shieldcn.dev/github/stars/ifirestone/api-territorial.svg?variant=secondary&size=sm)](https://github.com/ifirestone/api-territorial) [![territorial ⭐ 1](https://www.shieldcn.dev/github/stars/ifirestone/territorial.svg?variant=secondary&size=sm)](https://github.com/ifirestone/territorial) [![course-goal-demo ⭐ 1](https://www.shieldcn.dev/github/stars/ifirestone/course-goal-demo.svg?variant=secondary&size=sm)](https://github.com/ifirestone/course-goal-demo)
+
+---
+
+<sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub>
+
+---
+
+
+
+
 ### Hi there, I'm Ivan Firestone - [ifirestone][website] 👋 
 
 [![Website](https://img.shields.io/website?label=madlab.com.do&style=for-the-badge&url=https%3A%2F%2Ffmt.com.do)](https://madlab.com.do)
