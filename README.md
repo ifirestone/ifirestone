@@ -29,3 +29,6 @@
 [territorial]: https://github.com/ifirestone/api-territorial
 [faker]: https://github.com/ifirestone/java-faker
 [language]: https://github.com/ifirestone/laravel-languages
+
+## Stats
+[https://wakapi.madlabapps.com/api/badge/ifirestone/interval:today?label=today]
