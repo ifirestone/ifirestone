@@ -37,6 +37,4 @@
 
 [![Wakapi Today](https://wakapi.madlabapps.com/api/badge/ifirestone/interval:today?label=today)](https://wakapi.madlabapps.com) [![Wakapi Last 30 Days](https://wakapi.madlabapps.com/api/badge/ifirestone/ifirestone/interval:30_days?label=last%2030d)](https://wakapi.madlabapps.com)
 
-![Wakapi.dev Stats (Last 30 Days)](https://github-readme-stats.vercel.app/api/wakatime?username=ifirestone&api_domain=wakapi.madlabapps.com&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev+Stats+%28Last+30+Days%29&layout=compact)
-
 </div>
