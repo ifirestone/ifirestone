@@ -22,7 +22,7 @@
 
 ---
 
-[website]: https://madlab.com.do
+[website]: https://ifirestone.dev
 [twitter]: https://twitter.com/ijfirestone
 [instagram]: https://instagram.com/ifirestone
 [linkedin]: https://linkedin.com/in/ifirestone
@@ -37,4 +37,8 @@
 
 [![Wakapi Today](https://wakapi.madlabapps.com/api/badge/ifirestone/interval:today?label=today)](https://wakapi.madlabapps.com) [![Wakapi Last 30 Days](https://wakapi.madlabapps.com/api/badge/ifirestone/ifirestone/interval:30_days?label=last%2030d)](https://wakapi.madlabapps.com)
 
+</div>
+
+<div align="center">
+  <a href="https://daily.dev/ifirestone"><img src="https://api.daily.dev/devcards/v2/ow27oI4LdtHaW3xp2dShm.png?type=wide&r=qdm" width="652" alt="Ivan Firestone's Dev Card"/></a>
 </div>
